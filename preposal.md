@@ -8,6 +8,7 @@ A discord bot that produces random quotes of a celebrity when called
 A 2d sidescroller
 A visual novel
 An app
+A stock trading mockup
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
